@@ -1,0 +1,63 @@
+.header
+{
+    color:red;
+}
+
+.para
+{
+    background-color: #c25555;
+    color:black
+}
+
+.carbo-title
+{
+    color:#d8a600;
+    background-color: black;
+}
+
+.carbo-head
+{
+    font-size: 28px;
+    text-align: center;
+}
+
+.carbo-para.first
+{
+    color:blue;
+    background-color: pink;
+}
+
+.carbo-para.secondo
+{
+    color:green;
+}
+.pizza-title
+{
+    font-size: 28px;
+    color: red;
+}
+
+.para{
+    text-align: center;
+    font-weight:700;
+}
+
+.pizza-ingredients
+{
+    color:brown;
+    background-color: yellow;
+}
+
+.instruction
+{
+    color:red;
+    font-weight: 1000;
+    font-size: 25px;
+}
+
+.gelato
+{
+    height: auto;
+    width:500px;
+
+}
