@@ -3,7 +3,6 @@ Recipes project for The Odin Project.\
 Live preview the webpage [here](https://uaitt.github.io/Odin-recipes/).
 
 Things I learned:
-
 1. CSS
    - Target HTML elements with the proper selector
    - Apply the most basics rules such as:\
